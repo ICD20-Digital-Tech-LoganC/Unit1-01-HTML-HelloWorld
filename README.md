@@ -1,1 +1,1 @@
-[![GitHub's Super Linter](https://github.com/<Logan-T-Connors>/<Unit1-01-HTML-HelloWorld-Logan-Connors>/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<Logan-T-Connors>/<Unit1-01-HTML-HelloWorld-Logan-Connors>/actions)
+[![GitHub's Super Linter](https://github.com/<Logan-T-Connors>/ICD20-Digital-Tech-LoganC/Unit1-01-HTML-HelloWorld/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/<Logan-T-Connors>/ICD20-Digital-Tech-LoganC/Unit1-01-HTML-HelloWorld/actions)
